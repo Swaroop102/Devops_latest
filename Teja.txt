@@ -1,1 +1,2 @@
 This is the first file created using git hub.
+Git is useful for commiting the code in repository.
